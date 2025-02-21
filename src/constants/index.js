@@ -146,16 +146,11 @@ export const services = [
 export const reviews = [
     {
         imgURL: customer1,
-        customerName: 'Morich Brown',
-        rating: 4.5,
-        feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
+        customerName: 'Jayavilal Meegoda',
+        rating: "jmeegoda@gmail.com",
+        feedback: "B.Sc.(Eng.)Hons, C.Eng, FIE(SL), Int.PE(SL), MBA, PGD(Norway), MIEEE(USA). International Fair Director (SLSEF)  Sri Lanka Science And Engineering Fair, affiliated with Society For Science Washinton, USA. Regeneron International Science and Engineering Fair (ISEF), USA Taiwan International Science Fair"
     },
-    {
-        imgURL: customer2,
-        customerName: 'Lota Mongeskar',
-        rating: 4.5,
-        feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
-    }
+
 ];
 
 

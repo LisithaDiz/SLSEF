@@ -42,7 +42,7 @@ const App = () => {
         <Subscribe />
       </section>
       <section className="pb-8 bg-black padding-x padding-t">
-        <Footer />
+        {/* <Footer /> */}
       </section>
     </main>
   );
