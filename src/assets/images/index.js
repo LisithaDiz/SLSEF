@@ -1,5 +1,5 @@
 import albert from './albert.jpg'
-import Nelson from './nelson.jpg'
+import Nelson from './Nelson.jpg'
 import jobs from './jobs.jpg'
 
 import customer1 from './customer1.jpeg'
